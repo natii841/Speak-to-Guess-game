@@ -3,7 +3,7 @@
 }
 
 body{
-    background: grey url('img/bg.jpg') no-repeat left center/cover;
+    background: grey url('./bg.jpg') no-repeat left center/cover;
     color: white;
     min-height: 100vh;
     display: flex;
@@ -51,3 +51,4 @@ p{
     margin: 20px;
     padding: 10px;
 }
+
